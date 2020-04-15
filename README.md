@@ -1,7 +1,7 @@
 # official-portfolio-website
 
 ---
-title: Tadiwa Portfolio website
+Title: My Portfolio Website
 ---
 
-### This is the link to my UI Website https://tadiwazingoni.netlify.com
+### This is the link to my Website UI: https://tadiwazingoni.netlify.com
