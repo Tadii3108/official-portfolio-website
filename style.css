@@ -2184,8 +2184,9 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-@media screen and (min-width: 40em) {
-  /* 640px */
+@media screen and (max-width: 640px) {
+  /* 640px */ 
+  /*min-width: 40em*/
   html {
     font-size: 55.5%;
   }
@@ -2195,8 +2196,9 @@ html {
     font-size: 17.8rem;
   }
 }
-@media screen and (min-width: 57.5em) {
+@media screen and (max-width: 920px) {
   /* 920px */
+  /*min-width: 57.5em*/
   html {
     font-size: 62.5%;
   }
